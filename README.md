@@ -2,7 +2,7 @@
         <h1>CodeWolf</h1>
     </div>
     <p align="center">
-        <img style="width:200px" src="https://github.com/competitive-code/CodeWolf-2-0/blob/main/codewolf.jpeg"
+        <img style="width:200px" src="https://github.com/competitive-code/competitive-code/blob/main/codewolf.jpeg"
             alt="CodeWolf" />
     </p>
     <p>
