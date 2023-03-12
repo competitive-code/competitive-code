@@ -1,5 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Warp&size=30&duration=2999&pause=497&color=F70000&center=true&width=1000&lines=Hey+There+%F0%9F%91%8B;Welcome+to+CCC+%F0%9F%92%BB)](https://git.io/typing-svg)
+                      
 <div align="center">
-        <h1>CodeWolf</h1>
+        <h1 style="color : red">CodeWolf</h1>
     </div>
     <p align="center">
         <img style="width:200px" src="https://github.com/competitive-code/competitive-code/blob/main/codewolf.jpeg"
