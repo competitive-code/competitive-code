@@ -4,7 +4,7 @@
         <h1 style="color : red">CodeWolf</h1>
     </div>
     <p align="center">
-        <img style="width:200px" src="https://github.com/competitive-code/competitive-code/blob/main/codewolf.jpeg"
+        <img style="width:200px" src="https://github.com/competitive-code/competitive-code/blob/main/codewolf.png"
             alt="CodeWolf" />
     </p>
     <p>
